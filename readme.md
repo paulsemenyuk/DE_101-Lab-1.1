@@ -26,4 +26,4 @@ For this task, I used Keynote as a tool to create the graphics, because it allow
 - Storage Layer - the data storage layer 
 - Business Layer - layer for business user to accessing the data
 Here is my visualization:
-[(https://github.com/paulsemenyuk/DE_101-Lab-1.1/blob/main/Analytical%20Solution%20Architecture/Analytical%20Solution%20Architecture.jpeg)|alt=ASA]
+(https://github.com/paulsemenyuk/DE_101-Lab-1.1/blob/main/Analytical%20Solution%20Architecture/Analytical%20Solution%20Architecture.jpeg)
